@@ -1,4 +1,4 @@
-# Reinforcement Learning Blakjack Agent
+# Reinforcement Learning Blackjack Agent
 
 An Artificial Intelligence built from scratch using Python and **Q-Learning**. This agent learns to play Blackjack by playing millions of simulated hands, and features a dynamic **Card Counting** toggle that allows it to adjust its betting strategy based on the True Count.
 
